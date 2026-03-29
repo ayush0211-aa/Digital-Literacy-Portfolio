@@ -1,8 +1,12 @@
 Digital-Literacy-Portfolio
+
 The Digital Literacy Portfolio demonstrates my ability to use digital tools, communicate effectively, and stay safe online. It includes tasks such as creating an infographic, building professional profiles, exploring digital platforms, practicing email etiquette, and understanding cybercrime and its prevention.
 Digital Literacy Portfolio
+
 Ayush Arora | B.Tech – Artificial Intelligence & Machine Learning | VIT Bhopal University
+
 Registration No: 25BAI10059
+
 
 About This Portfolio
 This repository documents the Digital Literacy Awareness project — a hands-on exploration of essential digital skills including online safety, professional communication, cybercrime awareness, and building a responsible digital presence.
@@ -32,11 +36,16 @@ Potfolios: kaggle,Linkedin,Googleskillcloud
 Featured GitHub Repositories:
 
 VIPER – V.I.P.E.R represents a significant advancement in automated security, designed to move beyond the passive recording capabilities of standard CCTV.
+
+
 Digital-Literacy-Portfolio – This portfolio demonstrating digital tool proficiency and online safety practices.
+
+
 PRISM - P.R.I.S.M. is an AI-powered e-commerce marketplace MVP built as a capstone project.
 
 
 Task 3 – Social Media Checklist for College Students
+
 ✅ Do's
 
 Think before you post or share any content.
@@ -55,6 +64,7 @@ Don't let social media negatively affect your studies or mental health.
 
 
 Task 4 – Professional Email Writing
+
 Two formal emails demonstrating professional communication skills:
 
 Email to Professor – Requesting an assignment deadline extension, addressed formally with a clear reason and proposed new date (4th April 2026).
@@ -63,6 +73,7 @@ Email to Internship Coordinator – Expressing interest in a summer internship o
 Both emails follow standard email etiquette: clear subject lines, formal salutations, concise body, and polite closings.
 
 Task 5 – Cybercrime Awareness Resource
+
 Case Study: UPI / Online Payment Fraud
 A detailed cybercrime awareness document covering:
 
@@ -82,6 +93,7 @@ Review app permissions regularly
 Report cybercrime at: cybercrime.gov.in | National Helpline: 1930
 
 Task 6 – HackerRank Problem Solving
+
 Successfully solved a coding challenge on HackerRank with all test cases passing (compiler status: Success).
 
 Test Case 0: ✅ Passed
@@ -89,6 +101,7 @@ Test Case 1: ✅ Passed
 
 
 Task 7 – Digital Literacy Awareness Form
+
 Created and distributed a Google Form quiz on Digital Literacy Awareness. Responses collected on 28th March 2026 (3 responses). Topics covered: password safety, phishing, secure internet practices, and the definition of digital literacy.
 
 Skills Demonstrated
